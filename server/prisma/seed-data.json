@@ -1,0 +1,12 @@
+[
+  { "name": "Amara Okafor",   "email": "amara.okafor@example.com",   "role": "Engineering Manager", "timezone": "Africa/Lagos",        "status": "available" },
+  { "name": "Liam Chen",      "email": "liam.chen@example.com",      "role": "Frontend Engineer",   "timezone": "America/Los_Angeles", "status": "busy", "statusNote": "In a design review" },
+  { "name": "Sofia Rossi",    "email": "sofia.rossi@example.com",    "role": "Product Designer",    "timezone": "Europe/Rome",         "status": "available" },
+  { "name": "Rahul Mehta",    "email": "rahul.mehta@example.com",    "role": "Backend Engineer",    "timezone": "Asia/Kolkata",        "status": "away", "statusNote": "Back in 30 min" },
+  { "name": "Hannah Weber",   "email": "hannah.weber@example.com",   "role": "QA Engineer",         "timezone": "Europe/Berlin",       "status": "available" },
+  { "name": "Diego Alvarez",  "email": "diego.alvarez@example.com",  "role": "DevOps Engineer",     "timezone": "America/Mexico_City", "status": "offline" },
+  { "name": "Yuki Tanaka",    "email": "yuki.tanaka@example.com",    "role": "Data Analyst",        "timezone": "Asia/Tokyo",          "status": "busy", "statusNote": "Quarterly report" },
+  { "name": "Grace Mitchell", "email": "grace.mitchell@example.com", "role": "Product Manager",     "timezone": "America/New_York",    "status": "available" },
+  { "name": "Omar Haddad",    "email": "omar.haddad@example.com",    "role": "Support Lead",        "timezone": "Asia/Dubai",          "status": "away" },
+  { "name": "Chloe Dubois",   "email": "chloe.dubois@example.com",   "role": "Marketing Lead",      "timezone": "Europe/Paris",        "status": "offline" }
+]
